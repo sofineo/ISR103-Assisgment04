@@ -20,7 +20,7 @@ h1 {
   text-align: center;
 }
 
-label {
+.label-form {
   font-size: 15px;
   font-weight: bold;
   color: red;
